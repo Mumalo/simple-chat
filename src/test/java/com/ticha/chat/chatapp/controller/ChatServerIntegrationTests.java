@@ -101,7 +101,7 @@ public class ChatServerIntegrationTests {
 
         // Step 1:  Simulate a connection
         this.stompClient.connect(
-                "ws://localhost:8080/my-stomp-chat",
+                "ws://localhost:{port}/my-chat-app",
                 this.headers,
                 handler,
                 this.port);
