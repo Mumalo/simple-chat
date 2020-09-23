@@ -28,5 +28,6 @@ After the above setups, its time to run the program
     mvn package 
  2. Execute the jar by typing
     java -jar path/to/jar/file
-###Run the app from an IDE
+    
+###un the app from an IDE
   if you are using an IDE like IntelliJ, navigate to the ChatApplication.java file and run it
