@@ -1,5 +1,5 @@
 
-# Simple Chat App (Online Bidding System)
+# Simple Chat App 
 
 Simple Chat App is a play chat app that uses web sockets to demonstrate realtime communication
 
